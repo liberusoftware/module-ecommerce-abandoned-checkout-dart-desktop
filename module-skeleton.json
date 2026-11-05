@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-abandoned-checkout-dart-desktop",
+  "capabilityKey": "planned:ecommerce:abandoned-checkout",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_abandoned_checkout_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/abandoned-checkout.md",
+  "presentationPlan": "projects/ecommerce/features/abandoned-checkout.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
